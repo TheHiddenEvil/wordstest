@@ -5,7 +5,6 @@ acid
 across
 act
 addition
-adjustment
 after
 again
 against
@@ -36,7 +35,6 @@ at
 attack
 attempt
 attention
-attraction
 authority
 automatic
 awake
@@ -116,6 +114,7 @@ cart
 cat
 cause
 certain
+calamari
 chain
 chalk
 chance
@@ -202,7 +201,6 @@ discussion
 disease
 disgust
 distance
-distribution
 division
 do
 dog
